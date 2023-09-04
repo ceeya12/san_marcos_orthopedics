@@ -1,0 +1,23 @@
+.smo_icon {
+    display: flex;
+    align-items: flex-end;
+}
+
+.call_button {
+    float: right;
+    margin-top: 10px;
+}
+
+.book_appointment {
+    display: flex;
+    float: right;
+    margin-top: 55px;
+}
+
+.test_button {
+    display: flex;
+    float: right;
+    margin-top: 25px;
+    margin-left: 45px;
+
+}
